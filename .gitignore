@@ -1,0 +1,7 @@
+# Directories
+.output/
+.settings/
+
+# Files
+.cproject
+.project
